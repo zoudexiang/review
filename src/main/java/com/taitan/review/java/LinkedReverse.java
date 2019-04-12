@@ -62,8 +62,6 @@ public class LinkedReverse {
     }
 }
 
-
-
 /**
  * 链表节点类
  */
