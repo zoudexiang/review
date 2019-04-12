@@ -6,7 +6,7 @@ package com.taitan.review.java;
  *
  * 红黑树 ----> 递归思想
  */
-public class RedBlackTree {
+public class TreeTest {
 
     public static void main(String[] args) {
 
